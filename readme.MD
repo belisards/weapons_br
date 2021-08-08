@@ -1,5 +1,6 @@
 # Weapons in Brazil
 
+Data cleaning and analysis from the National Weapons System in Brazil (SINARM).
 
 ## Folders
 
