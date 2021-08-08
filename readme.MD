@@ -2,7 +2,7 @@
 
 Data cleaning and analysis from the National Weapons System in Brazil (SINARM). All files were provided by Federal Police via LAI (like FOIA) requests. 
 
-# ℹ️ Source
+# 📁 Directories
 
 | Directory         | Comment             | Request ID                                                                                                            | Year's range | Format | Publication date |
 |----------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|--------------|--------|------------------|
@@ -20,7 +20,7 @@ Notebook to clean our time series and produce `time_series.csv`.
 
 National queries. It creates `total.csv`.
 
-# 🎲 Datasets
+# 📝 Datasets
 
 ## time_series.csv
 
