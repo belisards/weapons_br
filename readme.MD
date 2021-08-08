@@ -1,4 +1,4 @@
-# Weapons licenses in Brazil
+# 💥 Weapons licenses in Brazil
 
 Data cleaning and analysis from the National Weapons System in Brazil (SINARM). Data provided by Federal Police via LAI (like FOIA) requests. 
 
