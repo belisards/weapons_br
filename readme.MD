@@ -10,7 +10,7 @@ Data cleaning and analysis from the National Weapons System in Brazil (SINARM). 
 | timeseries_pdf | TO DO: fact-checking | [08198032105202021](www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1415871)             | 2009-2019    | PDF    | 10/2020          |
 | y2021          | Most recent data    | [08198021419202180](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1562289) | 2021         | CSV    | 07/2021          |    |
 
-# Notebooks
+# 📚 Notebooks
 
 ## cleaning.ipynb
 
@@ -20,7 +20,7 @@ Notebook to clean our time series and produce `time_series.csv`.
 
 National queries. It creates `total.csv`.
 
-# Datasets
+# 🎲 Datasets
 
 ## time_series.csv
 
