@@ -2,7 +2,7 @@
 
 Data cleaning and analysis from the National Weapons System in Brazil (SINARM).
 
-## Folders
+# Raw data
 
 Data downloaded from the following LAI (like FOIA) requests.
 
@@ -13,6 +13,8 @@ Data downloaded from the following LAI (like FOIA) requests.
 | 0881_08198021419202180 | 2021         | CSV    | 07/2021          | [Federal Police](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?List=0c839f31%2D47d7%2D4485%2Dab65%2Dab0cee9cf8fe&ID=1562289&Web=88cc5f44%2D8cfe%2D4964%2D8ff4%2D376b5ebb3bef)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 
+# Notebooks
+
 ## cleaning.ipynb
 
 Notebook to clean our time series and produce `time_series.csv`.
@@ -20,6 +22,8 @@ Notebook to clean our time series and produce `time_series.csv`.
 ## br_queries.ipynb
 
 National queries. It creates `total.csv`.
+
+# Datasets
 
 ## time_series.csv
 
