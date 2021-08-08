@@ -16,7 +16,7 @@ Data downloaded from the following LAI (like FOIA) requests.
 
 Notebook to clean our time series and produce `time_series.csv`.
 
-## queries.ipynb
+## br_queries.ipynb
 
 National query aggregation. It creates `total.csv`.
 
@@ -26,7 +26,7 @@ Dataset from 2009 to 2021 created with `cleaning.ipynb`
 
 ## total.csv
 
-New licenses by category and year.
+New licenses by category and year created by `queries.ipynb`.
 
 ## 2021_2020_agg.csv 
 
