@@ -1,6 +1,6 @@
 # Weapons in Brazil
 
-Data cleaning and analysis from the National Weapons System in Brazil (SINARM). 
+Data cleaning and analysis from the National Weapons System in Brazil (SINARM) using LAI (like FOIA) requests. 
 
 # Source
 
@@ -44,4 +44,4 @@ https://www.gov.br/mj/pt-br/acesso-a-informacao/atuacao-internacional/legislacao
 
 - Python
 - Pandas
-- [Markdown tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Markdown tables generator](https://www.tablesgenerator.com/markdown_tables)
