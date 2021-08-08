@@ -16,7 +16,7 @@ Jupyter notebooks using Python.
 
 ## cleaning.ipynb
 
-Notebook to clean our time series and produce `time_series.csv`.
+Jupyter notebook that cleans time series data and creates `time_series.csv`.
 
 ## br_queries.ipynb
 
@@ -24,7 +24,7 @@ National queries. It creates `total.csv`.
 
 # 📝 Datasets
 
-CSV files from this repository.
+CSV files created by this repository.
 
 ## time_series.csv
 
@@ -32,7 +32,7 @@ Dataset from 2009 to 2021 created by `cleaning.ipynb`. Each row is the total of 
 
 ## total.csv
 
-New licenses by category and year intially produced by `queries.ipynb`. Other means "Loja de Arma" and "Outros Tipos". Governmental means "Loja de Arma"  and "Outros Tipos". **Edited manually**.
+New licenses by category and year intially produced by `queries.ipynb`. `Other` means "Loja de Arma" and "Outros Tipos". `Governmental` means "Loja de Arma"  and "Outros Tipos". **Edited manually**.
 
 ## 2021_2020_agg.csv 
 
