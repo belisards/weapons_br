@@ -1,6 +1,6 @@
 # Weapons in Brazil
 
-Data cleaning and analysis from the National Weapons System in Brazil (SINARM).
+Data cleaning and analysis from the National Weapons System in Brazil (SINARM). 
 
 # Source
 
@@ -24,7 +24,7 @@ National queries. It creates `total.csv`.
 
 ## time_series.csv
 
-Dataset from 2009 to 2021 created with `cleaning.ipynb`
+Dataset from 2009 to 2021 created with `cleaning.ipynb`. Each row is the total of new records per region, year and category.
 
 ## total.csv
 
