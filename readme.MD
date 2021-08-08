@@ -40,6 +40,8 @@ Data from 2021 and 2002. **Edited manually**.
 
 [SINARM legislation in english](https://www.gov.br/mj/pt-br/acesso-a-informacao/atuacao-internacional/legislacao-traduzida/lei_n_10-826_de_22_de_dezembro_de_2003_eng-docx.pdf#page=3)
 
+[Policy changes in 2019](https://g1.globo.com/politica/noticia/2019/05/22/veja-o-que-muda-no-novo-decreto-para-a-posse-e-porte-de-armas-no-pais.ghtml)
+
 # Resources
 
 - Python
