@@ -36,9 +36,9 @@ Data from 2021 and 2002. **Edited manually**.
 
 # References
 
-http://soudapaz.org/noticias/o-globo-exercito-ignora-norma-e-nao-integra-sistema-de-armas-ao-da-policia-federal/
+[Military records not included](http://soudapaz.org/noticias/o-globo-exercito-ignora-norma-e-nao-integra-sistema-de-armas-ao-da-policia-federal/)
 
-https://www.gov.br/mj/pt-br/acesso-a-informacao/atuacao-internacional/legislacao-traduzida/lei_n_10-826_de_22_de_dezembro_de_2003_eng-docx.pdf#page=3
+[SINARM legislation in english](https://www.gov.br/mj/pt-br/acesso-a-informacao/atuacao-internacional/legislacao-traduzida/lei_n_10-826_de_22_de_dezembro_de_2003_eng-docx.pdf#page=3)
 
 # Resources
 
