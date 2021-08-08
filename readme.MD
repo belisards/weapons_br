@@ -12,6 +12,8 @@ Data cleaning and analysis from the National Weapons System in Brazil (SINARM). 
 
 # 📚 Notebooks
 
+Jupyter notebooks using Python.
+
 ## cleaning.ipynb
 
 Notebook to clean our time series and produce `time_series.csv`.
@@ -21,6 +23,8 @@ Notebook to clean our time series and produce `time_series.csv`.
 National queries. It creates `total.csv`.
 
 # 📝 Datasets
+
+CSV files created by me.
 
 ## time_series.csv
 
