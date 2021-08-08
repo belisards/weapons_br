@@ -44,4 +44,4 @@ https://www.gov.br/mj/pt-br/acesso-a-informacao/atuacao-internacional/legislacao
 
 - Python
 - Pandas
-- [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Markdown tables Generator](https://www.tablesgenerator.com/markdown_tables)
