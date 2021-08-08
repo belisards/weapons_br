@@ -1,4 +1,4 @@
-# Weapons in Brazil
+# Weapons licenses in Brazil
 
 Data cleaning and analysis from the National Weapons System in Brazil (SINARM) using LAI (like FOIA) requests. 
 
