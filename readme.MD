@@ -1,8 +1,8 @@
-# 💥 Weapons licenses in Brazil
+# 💥 🇧🇷 Weapons licenses in Brazil
 
 Data cleaning and analysis from the National Weapons System in Brazil (SINARM). All files were provided by Federal Police via LAI (like FOIA) requests. 
 
-# Source
+# ℹ️ Source
 
 | Directory         | Comment             | Request ID                                                                                                            | Year's range | Format | Publication date |
 |----------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|--------------|--------|------------------|
