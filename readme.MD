@@ -42,8 +42,9 @@ Data from 2021 and 2002. **Edited manually**.
 
 [Policy changes in 2019](https://g1.globo.com/politica/noticia/2019/05/22/veja-o-que-muda-no-novo-decreto-para-a-posse-e-porte-de-armas-no-pais.ghtml)
 
+[Policy changes in 2021](https://www.metropoles.com/brasil/governo-altera-decretos-e-amplia-facilidades-para-acessar-arma-de-fogo)
+
 # Resources
 
-- Python
 - Pandas
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
