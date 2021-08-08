@@ -1,12 +1,28 @@
 # Weapons in Brazil
 
-## cleaning
+## cleaning.ipynb
 
-## queries
+Notebook to clean our time series and produce `time_series.csv`.
+
+## queries.ipynb
+
+National query aggregation. It creates `total.csv`.
+
+## time_series.csv
+
+Dataset from 2009 to 2021 created with `cleaning.ipynb`
+
+## total.csv
+
+New licenses by category and year.
+
+## 2021_2020_agg.csv 
+
+Data from 2021 and 2002. **Edited manually**.
 
 ## Folders
 
-Data from LAI (like FOIA) requests.
+Data downloaded from the following LAI (like FOIA) requests.
 
 ### time_series_csv
 
