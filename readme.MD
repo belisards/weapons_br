@@ -18,7 +18,7 @@ Notebook to clean our time series and produce `time_series.csv`.
 
 ## br_queries.ipynb
 
-National query aggregation. It creates `total.csv`.
+National queries. It creates `total.csv`.
 
 ## time_series.csv
 
