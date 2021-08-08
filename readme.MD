@@ -34,7 +34,7 @@ New licenses by category and year created by `queries.ipynb`.
 
 Data from 2021 and 2002. **Edited manually**.
 
-# References
+# ➕ References
 
 [Military records not included](http://soudapaz.org/noticias/o-globo-exercito-ignora-norma-e-nao-integra-sistema-de-armas-ao-da-policia-federal/)
 
@@ -44,7 +44,7 @@ Data from 2021 and 2002. **Edited manually**.
 
 [Policy changes in 2021](https://www.metropoles.com/brasil/governo-altera-decretos-e-amplia-facilidades-para-acessar-arma-de-fogo)
 
-# Resources
+# 🛠️ Resources
 
 - Python + Pandas
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
