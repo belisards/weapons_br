@@ -32,7 +32,7 @@ Dataset from 2009 to 2021 created by `cleaning.ipynb`. Each row is the total of 
 
 ## total.csv
 
-New licenses by category and year created by `queries.ipynb`.
+New licenses by category and year intially produced by `queries.ipynb`. Other means "Loja de Arma" and "Outros Tipos". Governmental means "Loja de Arma"  and "Outros Tipos". **Edited manually**.
 
 ## 2021_2020_agg.csv 
 
