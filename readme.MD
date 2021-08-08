@@ -24,11 +24,11 @@ National queries. It creates `total.csv`.
 
 # 📝 Datasets
 
-CSV files created by me.
+CSV files from this repository.
 
 ## time_series.csv
 
-Dataset from 2009 to 2021 created with `cleaning.ipynb`. Each row is the total of new records per state, year and category.
+Dataset from 2009 to 2021 created by `cleaning.ipynb`. Each row is the total of new records per state, year and category.
 
 ## total.csv
 
