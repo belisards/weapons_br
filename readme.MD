@@ -1,10 +1,16 @@
 # Weapons in Brazil
 
-## Source
+## cleaning
+
+## queries
+
+## Folders
+
+Data from LAI (like FOIA) requests.
 
 ### time_series_csv
 
-**Request ID** 0274_08198006680202150
+**Request ID:** 0274_08198006680202150
 
 **Format**: CSV
 
