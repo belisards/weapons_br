@@ -42,4 +42,6 @@ https://www.gov.br/mj/pt-br/acesso-a-informacao/atuacao-internacional/legislacao
 
 # Resources
 
-https://www.tablesgenerator.com/markdown_tables
+- Python
+- Pandas
+- [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
