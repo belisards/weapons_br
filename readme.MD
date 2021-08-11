@@ -50,5 +50,6 @@ Data from 2021 and 2002. **Edited manually**.
 
 # 🛠️ Resources
 
-- Python + Pandas
+- Python
+- Pandas 
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
