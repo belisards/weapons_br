@@ -4,11 +4,11 @@ Limpeza de dados e análise do Sistema Nacional de Armas (SINARM). Todo os dados
 
 # 📁 Directories
 
-| Directory         | Comment             | Request ID                                                                                                            | Year's range | Format | Publication date |
+| Diretório         | Comentário             | ID do pedido de LAI                                                                                                            | Período coberto | Formato | Data de publicação |
 |----------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|--------------|--------|------------------|
-| timeseries_csv | Fonte principal         | [08198006680202150](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1530523)      | 2009-2020    | CSV    | 03/2021          |
+| timeseries_csv | Fonte principal         | [08198006680202150](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1530523)      | 1997-2020    | CSV    | 03/2021          |
 | timeseries_pdf | Para fact-checking | [08198032105202021](www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1415871)             | 2009-2019    | PDF    | 10/2020          |
-| y2021          | Dados mais recentes    | 08198026615202141 | 2021         | CSV    | 07/2021          |    |
+| y2021          | Dados mais recentes    | 08198026615202141 | 2021         | CSV    | 08/2021          |    |
 
 # 📚 Notebooks
 
