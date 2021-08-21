@@ -2078,31 +2078,31 @@ index,UF,CATEGORIA,JANEIRO,FEVEREIRO,MARÇO,ABRIL,MAIO,JUNHO,JULHO,AGOSTO,SETEMB
 2076,TO,Órgão Público,0.0,4.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,907.0,3.0,984.0,2020,Órgão público sem taxa
 2077,TO,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,Outras Categorias
 2078,TO,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2020,Revendedor
-2079,AC,Pessoa física,30.0,16.0,17.0,10.0,14.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0,2021,Caçador de Subsistência
-2080,AC,Pessoa física,88.0,154.0,199.0,201.0,263.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,1145.0,2021,Cidadão
-2081,AC,Segurança Pública,20.0,15.0,18.0,17.0,13.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,2021,Servidor Público (Porte por prerrogativa de função)
+2079,AC,Pessoa física,30.0,16.0,17.0,10.0,14.0,10.0,17.0,0.0,0.0,0.0,0.0,0.0,114.0,2021,Caçador de Subsistência
+2080,AC,Pessoa física,88.0,154.0,199.0,201.0,263.0,240.0,144.0,0.0,0.0,0.0,0.0,0.0,1289.0,2021,Cidadão
+2081,AC,Segurança Pública,20.0,15.0,18.0,17.0,13.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,97.0,2021,Servidor Público (Porte por prerrogativa de função)
 2082,AC,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2083,AC,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2084,AC,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa de Segurança Privada
+2084,AC,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Empresa de Segurança Privada
 2085,AC,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2086,AC,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2087,AC,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público sem taxa
 2088,AC,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2089,AC,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2090,AL,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2091,AL,Pessoa física,40.0,59.0,140.0,121.0,76.0,82.0,0.0,0.0,0.0,0.0,0.0,0.0,518.0,2021,Cidadão
-2092,AL,Segurança Pública,12.0,8.0,63.0,38.0,41.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,188.0,2021,Servidor Público (Porte por prerrogativa de função)
+2091,AL,Pessoa física,40.0,59.0,140.0,121.0,76.0,82.0,93.0,0.0,0.0,0.0,0.0,0.0,611.0,2021,Cidadão
+2092,AL,Segurança Pública,12.0,8.0,63.0,38.0,41.0,26.0,53.0,0.0,0.0,0.0,0.0,0.0,241.0,2021,Servidor Público (Porte por prerrogativa de função)
 2093,AL,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2094,AL,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2095,AL,Segurança Privada,0.0,2.0,0.0,6.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,2021,Empresa de Segurança Privada
+2095,AL,Segurança Privada,0.0,2.0,0.0,6.0,3.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,19.0,2021,Empresa de Segurança Privada
 2096,AL,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2097,AL,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2098,AL,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público sem taxa
+2098,AL,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,2021,Órgão público sem taxa
 2099,AL,Outros Tipos,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2021,Outras Categorias
 2100,AL,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2101,AM,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2102,AM,Pessoa física,0.0,52.0,104.0,43.0,68.0,77.0,0.0,0.0,0.0,0.0,0.0,0.0,344.0,2021,Cidadão
-2103,AM,Segurança Pública,0.0,6.0,11.0,8.0,15.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0,2021,Servidor Público (Porte por prerrogativa de função)
+2102,AM,Pessoa física,0.0,52.0,104.0,43.0,68.0,77.0,124.0,0.0,0.0,0.0,0.0,0.0,468.0,2021,Cidadão
+2103,AM,Segurança Pública,0.0,6.0,11.0,8.0,15.0,14.0,17.0,0.0,0.0,0.0,0.0,0.0,71.0,2021,Servidor Público (Porte por prerrogativa de função)
 2104,AM,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2105,AM,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2106,AM,Segurança Privada,0.0,14.0,4.0,43.0,59.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,132.0,2021,Empresa de Segurança Privada
@@ -2112,96 +2112,96 @@ index,UF,CATEGORIA,JANEIRO,FEVEREIRO,MARÇO,ABRIL,MAIO,JUNHO,JULHO,AGOSTO,SETEMB
 2110,AM,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2111,AM,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2112,AP,Pessoa física,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2021,Caçador de Subsistência
-2113,AP,Pessoa física,13.0,30.0,38.0,28.0,27.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0,2021,Cidadão
-2114,AP,Segurança Pública,7.0,5.0,10.0,3.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,2021,Servidor Público (Porte por prerrogativa de função)
+2113,AP,Pessoa física,13.0,30.0,38.0,28.0,27.0,28.0,28.0,0.0,0.0,0.0,0.0,0.0,192.0,2021,Cidadão
+2114,AP,Segurança Pública,7.0,5.0,10.0,3.0,5.0,5.0,14.0,0.0,0.0,0.0,0.0,0.0,49.0,2021,Servidor Público (Porte por prerrogativa de função)
 2115,AP,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2116,AP,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2117,AP,Segurança Privada,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2021,Empresa de Segurança Privada
+2117,AP,Segurança Privada,0.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,2021,Empresa de Segurança Privada
 2118,AP,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2119,AP,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2120,AP,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público sem taxa
 2121,AP,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2122,AP,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2123,BA,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2124,BA,Pessoa física,303.0,348.0,359.0,468.0,422.0,417.0,0.0,0.0,0.0,0.0,0.0,0.0,2317.0,2021,Cidadão
-2125,BA,Segurança Pública,41.0,61.0,65.0,67.0,71.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,372.0,2021,Servidor Público (Porte por prerrogativa de função)
+2124,BA,Pessoa física,303.0,348.0,359.0,468.0,422.0,417.0,417.0,0.0,0.0,0.0,0.0,0.0,2734.0,2021,Cidadão
+2125,BA,Segurança Pública,41.0,61.0,65.0,67.0,71.0,67.0,78.0,0.0,0.0,0.0,0.0,0.0,450.0,2021,Servidor Público (Porte por prerrogativa de função)
 2126,BA,Segurança Privada,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Empresa com Segurança Orgânica
 2127,BA,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2128,BA,Segurança Privada,1.0,0.0,24.0,2.0,13.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,2021,Empresa de Segurança Privada
+2128,BA,Segurança Privada,1.0,0.0,24.0,2.0,13.0,5.0,14.0,0.0,0.0,0.0,0.0,0.0,59.0,2021,Empresa de Segurança Privada
 2129,BA,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2130,BA,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2131,BA,Órgão Público,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,2021,Órgão público sem taxa
+2131,BA,Órgão Público,0.0,0.0,18.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,29.0,2021,Órgão público sem taxa
 2132,BA,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2133,BA,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2134,CE,Pessoa física,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,2021,Caçador de Subsistência
-2135,CE,Pessoa física,91.0,96.0,121.0,64.0,31.0,98.0,0.0,0.0,0.0,0.0,0.0,0.0,501.0,2021,Cidadão
-2136,CE,Segurança Pública,31.0,38.0,74.0,33.0,8.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,244.0,2021,Servidor Público (Porte por prerrogativa de função)
+2135,CE,Pessoa física,91.0,96.0,121.0,64.0,31.0,98.0,65.0,0.0,0.0,0.0,0.0,0.0,566.0,2021,Cidadão
+2136,CE,Segurança Pública,31.0,38.0,74.0,33.0,8.0,60.0,43.0,0.0,0.0,0.0,0.0,0.0,287.0,2021,Servidor Público (Porte por prerrogativa de função)
 2137,CE,Segurança Privada,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Empresa com Segurança Orgânica
 2138,CE,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2139,CE,Segurança Privada,14.0,2.0,3.0,7.0,60.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,2021,Empresa de Segurança Privada
+2139,CE,Segurança Privada,14.0,2.0,3.0,7.0,60.0,10.0,10.0,0.0,0.0,0.0,0.0,0.0,106.0,2021,Empresa de Segurança Privada
 2140,CE,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2141,CE,Órgão Público,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2021,Órgão público com taxa
 2142,CE,Órgão Público,0.0,0.0,102.0,5.0,322.0,1245.0,0.0,0.0,0.0,0.0,0.0,0.0,1674.0,2021,Órgão público sem taxa
 2143,CE,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2144,CE,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2145,DF,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2146,DF,Pessoa física,210.0,201.0,277.0,318.0,340.0,311.0,0.0,0.0,0.0,0.0,0.0,0.0,1657.0,2021,Cidadão
-2147,DF,Segurança Pública,42.0,31.0,46.0,42.0,38.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,251.0,2021,Servidor Público (Porte por prerrogativa de função)
+2146,DF,Pessoa física,210.0,201.0,277.0,318.0,340.0,311.0,359.0,0.0,0.0,0.0,0.0,0.0,2016.0,2021,Cidadão
+2147,DF,Segurança Pública,42.0,31.0,46.0,42.0,38.0,52.0,60.0,0.0,0.0,0.0,0.0,0.0,311.0,2021,Servidor Público (Porte por prerrogativa de função)
 2148,DF,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2149,DF,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2150,DF,Segurança Privada,5.0,0.0,0.0,9.0,26.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,2021,Empresa de Segurança Privada
+2150,DF,Segurança Privada,5.0,0.0,0.0,9.0,26.0,9.0,14.0,0.0,0.0,0.0,0.0,0.0,63.0,2021,Empresa de Segurança Privada
 2151,DF,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2152,DF,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2153,DF,Órgão Público,0.0,62.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,2021,Órgão público sem taxa
 2154,DF,Outros Tipos,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,2021,Outras Categorias
 2155,DF,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
-2156,ES,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2157,ES,Pessoa física,447.0,759.0,806.0,779.0,841.0,992.0,0.0,0.0,0.0,0.0,0.0,0.0,4624.0,2021,Cidadão
-2158,ES,Segurança Pública,11.0,23.0,18.0,16.0,20.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,111.0,2021,Servidor Público (Porte por prerrogativa de função)
+2156,ES,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2021,Caçador de Subsistência
+2157,ES,Pessoa física,447.0,759.0,806.0,779.0,841.0,992.0,973.0,0.0,0.0,0.0,0.0,0.0,5597.0,2021,Cidadão
+2158,ES,Segurança Pública,11.0,23.0,18.0,16.0,20.0,23.0,22.0,0.0,0.0,0.0,0.0,0.0,133.0,2021,Servidor Público (Porte por prerrogativa de função)
 2159,ES,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2160,ES,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2161,ES,Segurança Privada,5.0,0.0,10.0,21.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,2021,Empresa de Segurança Privada
+2161,ES,Segurança Privada,5.0,0.0,10.0,21.0,7.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,52.0,2021,Empresa de Segurança Privada
 2162,ES,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2163,ES,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2164,ES,Órgão Público,770.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,770.0,2021,Órgão público sem taxa
+2164,ES,Órgão Público,770.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,780.0,2021,Órgão público sem taxa
 2165,ES,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2166,ES,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2167,GO,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2168,GO,Pessoa física,515.0,541.0,717.0,486.0,505.0,701.0,0.0,0.0,0.0,0.0,0.0,0.0,3465.0,2021,Cidadão
-2169,GO,Segurança Pública,46.0,47.0,66.0,60.0,56.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,320.0,2021,Servidor Público (Porte por prerrogativa de função)
+2168,GO,Pessoa física,515.0,541.0,717.0,486.0,505.0,701.0,546.0,0.0,0.0,0.0,0.0,0.0,4011.0,2021,Cidadão
+2169,GO,Segurança Pública,46.0,47.0,66.0,60.0,56.0,45.0,43.0,0.0,0.0,0.0,0.0,0.0,363.0,2021,Servidor Público (Porte por prerrogativa de função)
 2170,GO,Segurança Privada,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Empresa com Segurança Orgânica
 2171,GO,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2172,GO,Segurança Privada,28.0,0.0,8.0,135.0,17.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,192.0,2021,Empresa de Segurança Privada
+2172,GO,Segurança Privada,28.0,0.0,8.0,135.0,17.0,4.0,19.0,0.0,0.0,0.0,0.0,0.0,211.0,2021,Empresa de Segurança Privada
 2173,GO,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2174,GO,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2175,GO,Órgão Público,482.0,1.0,1.0,8.0,3.0,708.0,0.0,0.0,0.0,0.0,0.0,0.0,1203.0,2021,Órgão público sem taxa
+2175,GO,Órgão Público,482.0,1.0,1.0,8.0,3.0,708.0,1.0,0.0,0.0,0.0,0.0,0.0,1204.0,2021,Órgão público sem taxa
 2176,GO,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2177,GO,Loja de Arma,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Revendedor
 2178,MA,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2179,MA,Pessoa física,293.0,202.0,327.0,303.0,422.0,409.0,0.0,0.0,0.0,0.0,0.0,0.0,1956.0,2021,Cidadão
-2180,MA,Segurança Pública,31.0,19.0,29.0,31.0,31.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,174.0,2021,Servidor Público (Porte por prerrogativa de função)
+2179,MA,Pessoa física,293.0,202.0,327.0,303.0,422.0,409.0,314.0,0.0,0.0,0.0,0.0,0.0,2270.0,2021,Cidadão
+2180,MA,Segurança Pública,31.0,19.0,29.0,31.0,31.0,33.0,29.0,0.0,0.0,0.0,0.0,0.0,203.0,2021,Servidor Público (Porte por prerrogativa de função)
 2181,MA,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2182,MA,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2183,MA,Segurança Privada,1.0,36.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,2021,Empresa de Segurança Privada
+2183,MA,Segurança Privada,1.0,36.0,0.0,0.0,8.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,62.0,2021,Empresa de Segurança Privada
 2184,MA,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2185,MA,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2186,MA,Órgão Público,0.0,0.0,5.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2021,Órgão público sem taxa
 2187,MA,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2188,MA,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
-2189,MG,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2190,MG,Pessoa física,1778.0,1492.0,2509.0,1805.0,1991.0,1341.0,0.0,0.0,0.0,0.0,0.0,0.0,10916.0,2021,Cidadão
-2191,MG,Segurança Pública,259.0,160.0,233.0,183.0,143.0,115.0,0.0,0.0,0.0,0.0,0.0,0.0,1093.0,2021,Servidor Público (Porte por prerrogativa de função)
+2189,MG,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2021,Caçador de Subsistência
+2190,MG,Pessoa física,1778.0,1492.0,2509.0,1805.0,1991.0,1341.0,1286.0,0.0,0.0,0.0,0.0,0.0,12202.0,2021,Cidadão
+2191,MG,Segurança Pública,259.0,160.0,233.0,183.0,143.0,115.0,82.0,0.0,0.0,0.0,0.0,0.0,1175.0,2021,Servidor Público (Porte por prerrogativa de função)
 2192,MG,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2193,MG,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2194,MG,Segurança Privada,15.0,32.0,6.0,37.0,71.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,224.0,2021,Empresa de Segurança Privada
+2194,MG,Segurança Privada,15.0,32.0,6.0,37.0,71.0,63.0,1.0,0.0,0.0,0.0,0.0,0.0,225.0,2021,Empresa de Segurança Privada
 2195,MG,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2196,MG,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2197,MG,Órgão Público,38.0,2.0,51.0,20.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,141.0,2021,Órgão público sem taxa
+2197,MG,Órgão Público,38.0,2.0,51.0,20.0,30.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,151.0,2021,Órgão público sem taxa
 2198,MG,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2199,MG,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2200,MS,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2201,MS,Pessoa física,309.0,234.0,279.0,239.0,261.0,305.0,0.0,0.0,0.0,0.0,0.0,0.0,1627.0,2021,Cidadão
-2202,MS,Segurança Pública,61.0,36.0,45.0,40.0,27.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,246.0,2021,Servidor Público (Porte por prerrogativa de função)
+2201,MS,Pessoa física,309.0,234.0,279.0,239.0,261.0,305.0,344.0,0.0,0.0,0.0,0.0,0.0,1971.0,2021,Cidadão
+2202,MS,Segurança Pública,61.0,36.0,45.0,40.0,27.0,37.0,36.0,0.0,0.0,0.0,0.0,0.0,282.0,2021,Servidor Público (Porte por prerrogativa de função)
 2203,MS,Segurança Privada,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2021,Empresa com Segurança Orgânica
 2204,MS,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2205,MS,Segurança Privada,0.0,5.0,0.0,2.0,19.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,2021,Empresa de Segurança Privada
@@ -2211,30 +2211,30 @@ index,UF,CATEGORIA,JANEIRO,FEVEREIRO,MARÇO,ABRIL,MAIO,JUNHO,JULHO,AGOSTO,SETEMB
 2209,MS,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2210,MS,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2211,MT,Pessoa física,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Caçador de Subsistência
-2212,MT,Pessoa física,658.0,871.0,1015.0,802.0,992.0,1237.0,0.0,0.0,0.0,0.0,0.0,0.0,5575.0,2021,Cidadão
-2213,MT,Segurança Pública,23.0,25.0,18.0,23.0,25.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,152.0,2021,Servidor Público (Porte por prerrogativa de função)
+2212,MT,Pessoa física,658.0,871.0,1015.0,802.0,992.0,1237.0,1021.0,0.0,0.0,0.0,0.0,0.0,6596.0,2021,Cidadão
+2213,MT,Segurança Pública,23.0,25.0,18.0,23.0,25.0,38.0,36.0,0.0,0.0,0.0,0.0,0.0,188.0,2021,Servidor Público (Porte por prerrogativa de função)
 2214,MT,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2215,MT,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2216,MT,Segurança Privada,8.0,9.0,4.0,4.0,42.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,2021,Empresa de Segurança Privada
+2216,MT,Segurança Privada,8.0,9.0,4.0,4.0,42.0,2.0,10.0,0.0,0.0,0.0,0.0,0.0,79.0,2021,Empresa de Segurança Privada
 2217,MT,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2218,MT,Órgão Público,0.0,0.0,0.0,350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,350.0,2021,Órgão público com taxa
 2219,MT,Órgão Público,210.0,0.0,332.0,0.0,0.0,306.0,0.0,0.0,0.0,0.0,0.0,0.0,848.0,2021,Órgão público sem taxa
 2220,MT,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2221,MT,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
-2222,PA,Pessoa física,7.0,21.0,7.0,8.0,23.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0,2021,Caçador de Subsistência
-2223,PA,Pessoa física,408.0,463.0,549.0,611.0,572.0,705.0,0.0,0.0,0.0,0.0,0.0,0.0,3308.0,2021,Cidadão
-2224,PA,Segurança Pública,23.0,26.0,41.0,24.0,35.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,182.0,2021,Servidor Público (Porte por prerrogativa de função)
+2222,PA,Pessoa física,7.0,21.0,7.0,8.0,23.0,13.0,24.0,0.0,0.0,0.0,0.0,0.0,103.0,2021,Caçador de Subsistência
+2223,PA,Pessoa física,408.0,463.0,549.0,611.0,572.0,705.0,547.0,0.0,0.0,0.0,0.0,0.0,3855.0,2021,Cidadão
+2224,PA,Segurança Pública,23.0,26.0,41.0,24.0,35.0,33.0,36.0,0.0,0.0,0.0,0.0,0.0,218.0,2021,Servidor Público (Porte por prerrogativa de função)
 2225,PA,Segurança Privada,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,2021,Empresa com Segurança Orgânica
 2226,PA,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2227,PA,Segurança Privada,19.0,5.0,0.0,0.0,83.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,111.0,2021,Empresa de Segurança Privada
+2227,PA,Segurança Privada,19.0,5.0,0.0,0.0,83.0,4.0,12.0,0.0,0.0,0.0,0.0,0.0,123.0,2021,Empresa de Segurança Privada
 2228,PA,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2229,PA,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2230,PA,Órgão Público,12.0,3.0,630.0,31.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,681.0,2021,Órgão público sem taxa
+2230,PA,Órgão Público,12.0,3.0,630.0,31.0,0.0,5.0,105.0,0.0,0.0,0.0,0.0,0.0,786.0,2021,Órgão público sem taxa
 2231,PA,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2232,PA,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2233,PB,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2234,PB,Pessoa física,160.0,105.0,199.0,115.0,174.0,174.0,0.0,0.0,0.0,0.0,0.0,0.0,927.0,2021,Cidadão
-2235,PB,Segurança Pública,22.0,18.0,22.0,19.0,19.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,116.0,2021,Servidor Público (Porte por prerrogativa de função)
+2234,PB,Pessoa física,160.0,105.0,199.0,115.0,174.0,174.0,174.0,0.0,0.0,0.0,0.0,0.0,1101.0,2021,Cidadão
+2235,PB,Segurança Pública,22.0,18.0,22.0,19.0,19.0,16.0,25.0,0.0,0.0,0.0,0.0,0.0,141.0,2021,Servidor Público (Porte por prerrogativa de função)
 2236,PB,Segurança Privada,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Empresa com Segurança Orgânica
 2237,PB,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2238,PB,Segurança Privada,1.0,0.0,18.0,3.0,15.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,2021,Empresa de Segurança Privada
@@ -2244,53 +2244,53 @@ index,UF,CATEGORIA,JANEIRO,FEVEREIRO,MARÇO,ABRIL,MAIO,JUNHO,JULHO,AGOSTO,SETEMB
 2242,PB,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2243,PB,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2244,PE,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2245,PE,Pessoa física,289.0,368.0,375.0,268.0,374.0,411.0,0.0,0.0,0.0,0.0,0.0,0.0,2085.0,2021,Cidadão
-2246,PE,Segurança Pública,75.0,69.0,81.0,40.0,53.0,76.0,0.0,0.0,0.0,0.0,0.0,0.0,394.0,2021,Servidor Público (Porte por prerrogativa de função)
+2245,PE,Pessoa física,289.0,368.0,375.0,268.0,374.0,411.0,375.0,0.0,0.0,0.0,0.0,0.0,2460.0,2021,Cidadão
+2246,PE,Segurança Pública,75.0,69.0,81.0,40.0,53.0,76.0,71.0,0.0,0.0,0.0,0.0,0.0,465.0,2021,Servidor Público (Porte por prerrogativa de função)
 2247,PE,Segurança Privada,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Empresa com Segurança Orgânica
 2248,PE,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2249,PE,Segurança Privada,65.0,5.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,101.0,2021,Empresa de Segurança Privada
+2249,PE,Segurança Privada,65.0,5.0,0.0,0.0,0.0,31.0,2.0,0.0,0.0,0.0,0.0,0.0,103.0,2021,Empresa de Segurança Privada
 2250,PE,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2251,PE,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2252,PE,Órgão Público,1.0,0.0,0.0,0.0,26.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,2021,Órgão público sem taxa
 2253,PE,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2254,PE,Loja de Arma,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Revendedor
 2255,PI,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2256,PI,Pessoa física,83.0,127.0,186.0,128.0,184.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,908.0,2021,Cidadão
-2257,PI,Segurança Pública,17.0,26.0,30.0,28.0,28.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,161.0,2021,Servidor Público (Porte por prerrogativa de função)
+2256,PI,Pessoa física,83.0,127.0,186.0,128.0,184.0,200.0,186.0,0.0,0.0,0.0,0.0,0.0,1094.0,2021,Cidadão
+2257,PI,Segurança Pública,17.0,26.0,30.0,28.0,28.0,32.0,15.0,0.0,0.0,0.0,0.0,0.0,176.0,2021,Servidor Público (Porte por prerrogativa de função)
 2258,PI,Segurança Privada,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2021,Empresa com Segurança Orgânica
 2259,PI,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2260,PI,Segurança Privada,0.0,10.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,2021,Empresa de Segurança Privada
 2261,PI,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
-2262,PI,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
+2262,PI,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Órgão público com taxa
 2263,PI,Órgão Público,0.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2021,Órgão público sem taxa
 2264,PI,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2265,PI,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2266,PR,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2267,PR,Pessoa física,560.0,755.0,930.0,786.0,791.0,806.0,0.0,0.0,0.0,0.0,0.0,0.0,4628.0,2021,Cidadão
-2268,PR,Segurança Pública,27.0,52.0,46.0,45.0,30.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,232.0,2021,Servidor Público (Porte por prerrogativa de função)
+2267,PR,Pessoa física,560.0,755.0,930.0,786.0,791.0,806.0,985.0,0.0,0.0,0.0,0.0,0.0,5613.0,2021,Cidadão
+2268,PR,Segurança Pública,27.0,52.0,46.0,45.0,30.0,32.0,50.0,0.0,0.0,0.0,0.0,0.0,282.0,2021,Servidor Público (Porte por prerrogativa de função)
 2269,PR,Segurança Privada,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Empresa com Segurança Orgânica
 2270,PR,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2271,PR,Segurança Privada,18.0,0.0,7.0,25.0,46.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,109.0,2021,Empresa de Segurança Privada
+2271,PR,Segurança Privada,18.0,0.0,7.0,25.0,46.0,13.0,11.0,0.0,0.0,0.0,0.0,0.0,120.0,2021,Empresa de Segurança Privada
 2272,PR,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2273,PR,Órgão Público,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2021,Órgão público com taxa
-2274,PR,Órgão Público,3.0,9.0,20.0,28.0,40.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,140.0,2021,Órgão público sem taxa
+2274,PR,Órgão Público,3.0,9.0,20.0,28.0,40.0,40.0,10.0,0.0,0.0,0.0,0.0,0.0,150.0,2021,Órgão público sem taxa
 2275,PR,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2276,PR,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2277,RJ,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2278,RJ,Pessoa física,594.0,558.0,760.0,735.0,902.0,863.0,0.0,0.0,0.0,0.0,0.0,0.0,4412.0,2021,Cidadão
-2279,RJ,Segurança Pública,74.0,70.0,97.0,68.0,78.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,483.0,2021,Servidor Público (Porte por prerrogativa de função)
+2278,RJ,Pessoa física,594.0,558.0,760.0,735.0,902.0,863.0,982.0,0.0,0.0,0.0,0.0,0.0,5394.0,2021,Cidadão
+2279,RJ,Segurança Pública,74.0,70.0,97.0,68.0,78.0,96.0,88.0,0.0,0.0,0.0,0.0,0.0,571.0,2021,Servidor Público (Porte por prerrogativa de função)
 2280,RJ,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2281,RJ,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2282,RJ,Segurança Privada,106.0,94.0,87.0,6.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,394.0,2021,Empresa de Segurança Privada
+2282,RJ,Segurança Privada,106.0,94.0,87.0,6.0,101.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,399.0,2021,Empresa de Segurança Privada
 2283,RJ,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2284,RJ,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2285,RJ,Órgão Público,0.0,0.0,20.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,2021,Órgão público sem taxa
+2285,RJ,Órgão Público,0.0,0.0,20.0,11.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,34.0,2021,Órgão público sem taxa
 2286,RJ,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2287,RJ,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2288,RN,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2289,RN,Pessoa física,127.0,153.0,296.0,208.0,121.0,193.0,0.0,0.0,0.0,0.0,0.0,0.0,1098.0,2021,Cidadão
-2290,RN,Segurança Pública,23.0,19.0,41.0,34.0,28.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,182.0,2021,Servidor Público (Porte por prerrogativa de função)
-2291,RN,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
+2289,RN,Pessoa física,127.0,153.0,296.0,208.0,121.0,193.0,174.0,0.0,0.0,0.0,0.0,0.0,1272.0,2021,Cidadão
+2290,RN,Segurança Pública,23.0,19.0,41.0,34.0,28.0,37.0,40.0,0.0,0.0,0.0,0.0,0.0,222.0,2021,Servidor Público (Porte por prerrogativa de função)
+2291,RN,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Empresa com Segurança Orgânica
 2292,RN,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2293,RN,Segurança Privada,0.0,1.0,35.0,11.0,21.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,79.0,2021,Empresa de Segurança Privada
 2294,RN,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
@@ -2299,19 +2299,19 @@ index,UF,CATEGORIA,JANEIRO,FEVEREIRO,MARÇO,ABRIL,MAIO,JUNHO,JULHO,AGOSTO,SETEMB
 2297,RN,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2298,RN,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2299,RO,Pessoa física,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2021,Caçador de Subsistência
-2300,RO,Pessoa física,364.0,350.0,661.0,533.0,541.0,601.0,0.0,0.0,0.0,0.0,0.0,0.0,3050.0,2021,Cidadão
-2301,RO,Segurança Pública,33.0,17.0,47.0,33.0,28.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,191.0,2021,Servidor Público (Porte por prerrogativa de função)
+2300,RO,Pessoa física,364.0,350.0,661.0,533.0,541.0,601.0,569.0,0.0,0.0,0.0,0.0,0.0,3619.0,2021,Cidadão
+2301,RO,Segurança Pública,33.0,17.0,47.0,33.0,28.0,33.0,42.0,0.0,0.0,0.0,0.0,0.0,233.0,2021,Servidor Público (Porte por prerrogativa de função)
 2302,RO,Segurança Privada,8.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2021,Empresa com Segurança Orgânica
 2303,RO,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2304,RO,Segurança Privada,35.0,21.0,0.0,4.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,2021,Empresa de Segurança Privada
+2304,RO,Segurança Privada,35.0,21.0,0.0,4.0,0.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,70.0,2021,Empresa de Segurança Privada
 2305,RO,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2306,RO,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2307,RO,Órgão Público,0.0,1.0,5.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,2021,Órgão público sem taxa
 2308,RO,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2309,RO,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2310,RR,Pessoa física,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Caçador de Subsistência
-2311,RR,Pessoa física,23.0,37.0,31.0,148.0,85.0,105.0,0.0,0.0,0.0,0.0,0.0,0.0,429.0,2021,Cidadão
-2312,RR,Segurança Pública,25.0,30.0,16.0,23.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,106.0,2021,Servidor Público (Porte por prerrogativa de função)
+2311,RR,Pessoa física,23.0,37.0,31.0,148.0,85.0,105.0,103.0,0.0,0.0,0.0,0.0,0.0,532.0,2021,Cidadão
+2312,RR,Segurança Pública,25.0,30.0,16.0,23.0,4.0,8.0,16.0,0.0,0.0,0.0,0.0,0.0,122.0,2021,Servidor Público (Porte por prerrogativa de função)
 2313,RR,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2314,RR,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2315,RR,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa de Segurança Privada
@@ -2321,52 +2321,52 @@ index,UF,CATEGORIA,JANEIRO,FEVEREIRO,MARÇO,ABRIL,MAIO,JUNHO,JULHO,AGOSTO,SETEMB
 2319,RR,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2320,RR,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2321,RS,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2322,RS,Pessoa física,1404.0,1154.0,1073.0,1421.0,1696.0,1751.0,0.0,0.0,0.0,0.0,0.0,0.0,8499.0,2021,Cidadão
-2323,RS,Segurança Pública,99.0,90.0,79.0,87.0,64.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,519.0,2021,Servidor Público (Porte por prerrogativa de função)
+2322,RS,Pessoa física,1404.0,1154.0,1073.0,1421.0,1696.0,1751.0,1862.0,0.0,0.0,0.0,0.0,0.0,10361.0,2021,Cidadão
+2323,RS,Segurança Pública,99.0,90.0,79.0,87.0,64.0,100.0,131.0,0.0,0.0,0.0,0.0,0.0,650.0,2021,Servidor Público (Porte por prerrogativa de função)
 2324,RS,Segurança Privada,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Empresa com Segurança Orgânica
 2325,RS,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2326,RS,Segurança Privada,60.0,107.0,30.0,65.0,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,289.0,2021,Empresa de Segurança Privada
+2326,RS,Segurança Privada,60.0,107.0,30.0,65.0,26.0,1.0,118.0,0.0,0.0,0.0,0.0,0.0,407.0,2021,Empresa de Segurança Privada
 2327,RS,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2328,RS,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2329,RS,Órgão Público,5.0,340.0,44.0,84.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,482.0,2021,Órgão público sem taxa
+2329,RS,Órgão Público,5.0,340.0,44.0,84.0,0.0,9.0,44.0,0.0,0.0,0.0,0.0,0.0,526.0,2021,Órgão público sem taxa
 2330,RS,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2331,RS,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2332,SC,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2333,SC,Pessoa física,1031.0,842.0,1320.0,1083.0,1115.0,1069.0,0.0,0.0,0.0,0.0,0.0,0.0,6460.0,2021,Cidadão
-2334,SC,Segurança Pública,31.0,28.0,46.0,33.0,34.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,203.0,2021,Servidor Público (Porte por prerrogativa de função)
+2333,SC,Pessoa física,1031.0,842.0,1320.0,1083.0,1115.0,1069.0,1172.0,0.0,0.0,0.0,0.0,0.0,7632.0,2021,Cidadão
+2334,SC,Segurança Pública,31.0,28.0,46.0,33.0,34.0,31.0,39.0,0.0,0.0,0.0,0.0,0.0,242.0,2021,Servidor Público (Porte por prerrogativa de função)
 2335,SC,Segurança Privada,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2021,Empresa com Segurança Orgânica
 2336,SC,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2337,SC,Segurança Privada,43.0,2.0,26.0,5.0,27.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,115.0,2021,Empresa de Segurança Privada
+2337,SC,Segurança Privada,43.0,2.0,26.0,5.0,27.0,12.0,26.0,0.0,0.0,0.0,0.0,0.0,141.0,2021,Empresa de Segurança Privada
 2338,SC,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2339,SC,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
-2340,SC,Órgão Público,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,2021,Órgão público sem taxa
+2340,SC,Órgão Público,12.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,15.0,2021,Órgão público sem taxa
 2341,SC,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2342,SC,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2343,SE,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2344,SE,Pessoa física,153.0,109.0,78.0,138.0,147.0,194.0,0.0,0.0,0.0,0.0,0.0,0.0,819.0,2021,Cidadão
-2345,SE,Segurança Pública,8.0,6.0,7.0,18.0,53.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,113.0,2021,Servidor Público (Porte por prerrogativa de função)
+2344,SE,Pessoa física,153.0,109.0,78.0,138.0,147.0,194.0,200.0,0.0,0.0,0.0,0.0,0.0,1019.0,2021,Cidadão
+2345,SE,Segurança Pública,8.0,6.0,7.0,18.0,53.0,21.0,10.0,0.0,0.0,0.0,0.0,0.0,123.0,2021,Servidor Público (Porte por prerrogativa de função)
 2346,SE,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2347,SE,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
-2348,SE,Segurança Privada,0.0,8.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,2021,Empresa de Segurança Privada
+2348,SE,Segurança Privada,0.0,8.0,0.0,10.0,0.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,31.0,2021,Empresa de Segurança Privada
 2349,SE,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2350,SE,Órgão Público,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Órgão público com taxa
 2351,SE,Órgão Público,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,2021,Órgão público sem taxa
 2352,SE,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2353,SE,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2354,SP,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2355,SP,Pessoa física,750.0,686.0,747.0,608.0,636.0,735.0,0.0,0.0,0.0,0.0,0.0,0.0,4162.0,2021,Cidadão
-2356,SP,Segurança Pública,419.0,479.0,365.0,324.0,274.0,338.0,0.0,0.0,0.0,0.0,0.0,0.0,2199.0,2021,Servidor Público (Porte por prerrogativa de função)
+2355,SP,Pessoa física,750.0,686.0,747.0,608.0,636.0,735.0,764.0,0.0,0.0,0.0,0.0,0.0,4926.0,2021,Cidadão
+2356,SP,Segurança Pública,419.0,479.0,365.0,324.0,274.0,338.0,322.0,0.0,0.0,0.0,0.0,0.0,2521.0,2021,Servidor Público (Porte por prerrogativa de função)
 2357,SP,Segurança Privada,0.0,0.0,5.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,2021,Empresa com Segurança Orgânica
 2358,SP,Segurança Privada,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2021,Empresa Comercial
-2359,SP,Segurança Privada,20.0,19.0,232.0,135.0,98.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,529.0,2021,Empresa de Segurança Privada
+2359,SP,Segurança Privada,20.0,19.0,232.0,135.0,98.0,25.0,29.0,0.0,0.0,0.0,0.0,0.0,558.0,2021,Empresa de Segurança Privada
 2360,SP,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Fabricante/Importador
 2361,SP,Órgão Público,6.0,7.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,2021,Órgão público com taxa
-2362,SP,Órgão Público,366.0,1743.0,12.0,16.0,2.0,71.0,0.0,0.0,0.0,0.0,0.0,0.0,2210.0,2021,Órgão público sem taxa
+2362,SP,Órgão Público,366.0,1743.0,12.0,16.0,2.0,71.0,9.0,0.0,0.0,0.0,0.0,0.0,2219.0,2021,Órgão público sem taxa
 2363,SP,Outros Tipos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Outras Categorias
 2364,SP,Loja de Arma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Revendedor
 2365,TO,Pessoa física,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Caçador de Subsistência
-2366,TO,Pessoa física,138.0,74.0,62.0,154.0,142.0,165.0,0.0,0.0,0.0,0.0,0.0,0.0,735.0,2021,Cidadão
-2367,TO,Segurança Pública,19.0,5.0,6.0,11.0,9.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,2021,Servidor Público (Porte por prerrogativa de função)
+2366,TO,Pessoa física,138.0,74.0,62.0,154.0,142.0,165.0,118.0,0.0,0.0,0.0,0.0,0.0,853.0,2021,Cidadão
+2367,TO,Segurança Pública,19.0,5.0,6.0,11.0,9.0,16.0,19.0,0.0,0.0,0.0,0.0,0.0,85.0,2021,Servidor Público (Porte por prerrogativa de função)
 2368,TO,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa com Segurança Orgânica
 2369,TO,Segurança Privada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2021,Empresa Comercial
 2370,TO,Segurança Privada,14.0,0.0,12.0,2.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,2021,Empresa de Segurança Privada

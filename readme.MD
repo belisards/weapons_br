@@ -8,7 +8,7 @@ Data cleaning and analysis from the National Weapons System in Brazil (SINARM). 
 |----------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|--------------|--------|------------------|
 | timeseries_csv | Main source         | [08198006680202150](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1530523)      | 2009-2020    | CSV    | 03/2021          |
 | timeseries_pdf | TO DO: fact-checking | [08198032105202021](www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1415871)             | 2009-2019    | PDF    | 10/2020          |
-| y2021          | Most recent data    | [08198021419202180](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Item/displayifs.aspx?ID=1562289) | 2021         | CSV    | 07/2021          |    |
+| y2021          | Most recent data    | 08198026615202141 | 2021         | CSV    | 07/2021          |    |
 
 # 📚 Notebooks
 
