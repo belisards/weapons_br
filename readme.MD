@@ -2,7 +2,7 @@
 
 Limpeza de dados e análise do Sistema Nacional de Armas (SINARM). Todo os dados foram fornecidos pela Polícia Federal via Lei de Acesso à Informação.
 
-# 📁 Directories
+# 📁 Diretórios
 
 | Diretório         | Comentário             | ID do pedido de LAI                                                                                                            | Período coberto | Formato | Data de publicação |
 |----------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|--------------|--------|------------------|
